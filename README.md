@@ -62,3 +62,4 @@ pip install streamlit requests
 ## Связанные проекты
 
 - [GigaChat API Playground](https://github.com/QSquirreld/GigaChat-API-Playground) — демо GigaChat API.
+- [Improved Streamlit GigaChat App](https://github.com/QSquirreld/Improved-Streamlit-GigaChat-App) — улучшенное GigaChat Streamlit приложение
